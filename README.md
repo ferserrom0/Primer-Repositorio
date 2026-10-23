@@ -16,4 +16,4 @@ to energy data analysis and Python programming.
 - Visual Studio Code
 
 ## Status
-Learning and development.
+Learning and development
